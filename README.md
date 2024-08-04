@@ -1,5 +1,5 @@
 # Penilaian Proyek
-Proyek ini berhasil mendapatkan bintang ?/5 pada submission dicoding course Belajar Pengembangan Machine Learning.
+Proyek ini berhasil mendapatkan bintang 5/5 pada submission dicoding course Belajar Pengembangan Machine Learning.
 
 <img src="https://raw.githubusercontent.com/AbiyaMakruf/Dicoding-AnalisisSentimen/main/images/nilai.png" width="500">
 
