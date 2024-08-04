@@ -1,7 +1,7 @@
 # Penilaian Proyek
 Proyek ini berhasil mendapatkan bintang ?/5 pada submission dicoding course Belajar Pengembangan Machine Learning.
 
-<img src="https://raw.githubusercontent.com/AbiyaMakruf/Dicoding-PengembanganDanPengoperasianSistemMachineLearning/main/images/nilai.png" width="500">
+<img src="https://raw.githubusercontent.com/AbiyaMakruf/Dicoding-AnalisisSentimen/main/images/nilai.png" width="500">
 
 Kriteria tambahan yang saya kerjakan sehingga mendapat nilai terbaik:
 1. Menggunakan algoritma deep learning di luar dari contoh latihan.
